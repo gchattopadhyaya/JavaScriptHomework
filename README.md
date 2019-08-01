@@ -8,3 +8,8 @@ Java Script Homework to filter UFO data.
 2. CSS, Images, data.js were existing homework files.
 
 3. Output file - File with screenshot taken in my local computer.
+
+
+# How to run the project?
+1. Download the entire repo in you local machine.
+2. Double Click on index.html
